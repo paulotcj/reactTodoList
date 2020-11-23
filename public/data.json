@@ -1,0 +1,127 @@
+[
+  {
+    "todoTitle": "Buy Milk",
+    "todoNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "todoDate": "2020-11-28 13:30"
+  },
+  {
+    "todoTitle": "Do my homework",
+    "todoNotes": "Etiam semper mollis dui, non bibendum ipsum consectetur ac.",
+    "todoDate": "2020-11-28 10:15"
+  },
+  {
+    "todoTitle": "Feed the dog",
+    "todoNotes": "Nunc ut aliquet sapien.",
+    "todoDate": "2020-11-28 14:45"
+  },
+  {
+    "todoTitle": "Pay bills",
+    "todoNotes": "Aliquam libero quam, rhoncus quis nisl ut, pulvinar lobortis ligula.",
+    "todoDate": "2020-11-28 16:00"
+  },
+  {
+    "todoTitle": "Submit updates",
+    "todoNotes": "Proin varius vehicula vehicula. Aenean sit amet nulla fermentum tellus sodales sollicitudin.",
+    "todoDate": "2020-11-28 9:00"
+  },
+  {
+    "todoTitle": "Get the coffee machine fixed",
+    "todoNotes": "Phasellus massa tellus, viverra a metus ut, elementum porta leo.",
+    "todoDate": "2020-11-29 13:15"
+  },
+  {
+    "todoTitle": "Call Peter",
+    "todoNotes": "Sed a eros ornare, sodales eros vel, consectetur nulla.",
+    "todoDate": "2020-11-29 10:00"
+  },
+  {
+    "todoTitle": "Get a new printer",
+    "todoNotes": "Fusce volutpat ultricies mauris id molestie.",
+    "todoDate": "2020-11-29 11:45"
+  },
+  {
+    "todoTitle": "Send reminder to everyone",
+    "todoNotes": "Ut placerat ipsum vitae sem hendrerit, sit amet suscipit mi gravida.",
+    "todoDate": "2020-11-29 14:30"
+  },
+  {
+    "todoTitle": "Survey users",
+    "todoNotes": "Maecenas mollis, libero quis ultrices luctus, quam magna volutpat orci, et consequat magna dolor non sapien.",
+    "todoDate": "2020-11-29 16:00"
+  },
+  {
+    "todoTitle": "Wash the car",
+    "todoNotes": "Nulla sit amet mauris at diam gravida tincidunt.",
+    "todoDate": "2020-11-29 8:30"
+  },
+  {
+    "todoTitle": "Pay for hosting",
+    "todoNotes": "Praesent mollis, massa quis scelerisque consectetur, nibh nibh fringilla magna, porta condimentum est nulla et lorem.",
+    "todoDate": "2020-11-30 10:15"
+  },
+  {
+    "todoTitle": "Reply to Angela",
+    "todoNotes": "Vivamus congue vel arcu eget consectetur.",
+    "todoDate": "2020-11-30 11:30"
+  },
+  {
+    "todoTitle": "Create App",
+    "todoNotes": "Fusce condimentum dictum nibh sit amet imperdiet.",
+    "todoDate": "2020-11-30 14:30"
+  },
+  {
+    "todoTitle": "Update Database",
+    "todoNotes": "Suspendisse aliquam suscipit ultricies.",
+    "todoDate": "2020-11-30 15:45"
+  },
+  {
+    "todoTitle": "Local deploy",
+    "todoNotes": "Mauris porta vestibulum nisl quis mollis.",
+    "todoDate": "2020-11-30 9:00"
+  },
+  {
+    "todoTitle": "Review users requests",
+    "todoNotes": "Pellentesque varius dictum feugiat.",
+    "todoDate": "2020-12-1 13:00"
+  },
+  {
+    "todoTitle": "Get my stapler back",
+    "todoNotes": "Quisque condimentum et odio sed egestas.",
+    "todoDate": "2020-12-1 10:00"
+  },
+  {
+    "todoTitle": "Talk to consultants",
+    "todoNotes": "Aenean laoreet purus at placerat accumsan.",
+    "todoDate": "2020-12-1 11:30"
+  },
+  {
+    "todoTitle": "Lunch with Kenny",
+    "todoNotes": "Etiam luctus sem id justo tristique, sit amet vehicula tortor bibendum. Integer et urna vel tortor tristique elementum eget at sem.",
+    "todoDate": "2020-12-1 15:15"
+  },
+  {
+    "todoTitle": "Meeting with Mark",
+    "todoNotes": "Morbi in tellus eu nisi commodo dignissim.",
+    "todoDate": "2020-12-1 8:45"
+  },
+  {
+    "todoTitle": "Meeting with Mike",
+    "todoNotes": "Praesent ornare facilisis felis nec sagittis.",
+    "todoDate": "2020-12-2 13:30"
+  },
+  {
+    "todoTitle": "Monday call",
+    "todoNotes": "Nunc in fermentum mi.",
+    "todoDate": "2020-12-2 10:15"
+  },
+  {
+    "todoTitle": "Friday call",
+    "todoNotes": "Mauris quis diam justo.",
+    "todoDate": "2020-12-2 15:00"
+  },
+  {
+    "todoTitle": "React",
+    "todoNotes": "Ut id velit id purus vehicula iaculis ac id ipsum",
+    "todoDate": "2020-12-2 9:00"
+  }
+]

@@ -1,0 +1,45 @@
+.add-todo .card-body {
+  display: none;
+}
+
+.todo-addheading {
+  cursor: pointer;
+  user-select: none;
+}
+
+.todo-list {
+  font-size: 1.1em;
+}
+
+.todo-list .todo-item {
+  border-bottom: 1px dotted gray;
+}
+
+.todo-list .todo-item:last-child {
+  border-bottom: none;
+}
+
+.todo-list .todo-name {
+  font-weight: 600;
+  color: #3f3f3f;
+  font-size: 1.3em;
+  line-height: 100%;
+}
+
+.todo-list .label-item {
+  font-weight: 600;
+  color: #667b82;
+}
+
+.todo-list .todo-date {
+  font-style: italic;
+}
+
+.todo-list .todo-notes {
+  line-height: 120%;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: #a9aeb2;
+}
